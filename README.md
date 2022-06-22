@@ -5,3 +5,7 @@
 
 ## Descrição do projeto
 Construção de uma calculadora utilizando apenas Python, em um desafio proposto pela Data Science Academy no curso Python Fundamentos para Análise de Dados 3.0
+
+## ✔️ Técnicas e tecnologias utilizadas
+* `Python 3.10 (Condicionais e função lambda)`
+* `Visual Studio Code`
